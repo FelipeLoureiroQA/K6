@@ -1,7 +1,7 @@
 
 ## K6
 
-- Projeto aplicando conhecimentos sobre testes não funcionais: smoke, performance, spike e stress 
+- Aplicando conhecimentos sobre testes não funcionais: smoke, performance, spike e stress testing. 
 
 ### Tipos de testes realizados
 
